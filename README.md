@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @resatnucu
-- 👀 I’m interested in Motion Sytems
+- 👀 I’m interested in Motion Systems
 - 🌱 I’m currently learning Motion Mathcing And Pyhsical Animations
 
 <!---
