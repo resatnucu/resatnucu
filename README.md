@@ -1,4 +1,4 @@
-<h1 align = "center">- 👋 Hi, I’m @resatcu </h1>
+<h1 align = "center">👋 Hi, I’m @resatcu </h1>
 <h3 align = "center">- 👀 I’m interested in Motion Systems</h3>
 <h3 align = "center">- 🌱 I’m currently learning Motion Mathcing And Pyhsical Animations</h3>
 
