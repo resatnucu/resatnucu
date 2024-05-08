@@ -1,4 +1,4 @@
-<h1 align = "center">- 👋 Hi, I’m @resatnucu</h1>h1>
+<h1 align = "center">- 👋 Hi, I’m @resatnucu</h1>
 - 👀 I’m interested in Motion Systems
 - 🌱 I’m currently learning Motion Mathcing And Pyhsical Animations
 
